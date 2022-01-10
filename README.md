@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=OOS&label=My%20Portfolio&style=for-the-badge&up_color=blue&up_message=Visit&url=https%3A%2F%2Fthejohnadamsjr.com)](https://thejohnadamsjr.com)
 
 
-###I'm a Developer, Engineer, and car enthusiast!!
+### I'm a Developer, Engineer, and car enthusiast!!
 
 - 🚀 I just launched my youtube channel: [youtube]!
 - 🤖💻 I’m currently falling in love mixing my two passions
