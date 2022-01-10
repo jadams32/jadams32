@@ -58,5 +58,5 @@
 </details>
 
 [website]: https://thejohnadamsjr.com
-[youtube]: ttps://youtube.com/channel/UCiP7TZ6G4SSkOeFzT2P1xdw
-[linkedin]: https://https://www.linkedin.com/in/john-adamsjr/
+[youtube]: https://youtube.com/channel/UCiP7TZ6G4SSkOeFzT2P1xdw
+[linkedin]: https://www.linkedin.com/in/john-adamsjr/
