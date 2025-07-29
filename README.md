@@ -7,11 +7,9 @@
 - 🚀 I just launched my youtube channel: [youtube]!
 - 🤖💻 I’m currently falling in love mixing my two passions
 - 👯 I’m looking to meet with other developers
-- 🥅 2022 Goals: 
-  - Land my dream dev job!
-  - Contribute more to Open Source projects.
-  - Finish my AWS Certifications 
-  - Finish my real estate app.
+- 🥅 2025 Goals: 
+  - AWS Certifications 
+  - Finish my General Contractor CRM app.
 
 
 ### Connect with me:
