@@ -4,7 +4,6 @@
 
 ### I'm a Developer, Engineer, and car enthusiast!!
 
-- 🚀 I just launched my youtube channel: [youtube]!
 - 🤖💻 I’m currently falling in love mixing my two passions
 - 👯 I’m looking to meet with other developers
 - 🥅 2025 Goals: 
@@ -15,7 +14,6 @@
 ### Connect with me:
 
 [<img align="left" alt="thejohnadamsjr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CodingRobot | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="John Adams Jr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -37,17 +35,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/channel/UCiP7TZ6G4SSkOeFzT2P1xdw)
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
