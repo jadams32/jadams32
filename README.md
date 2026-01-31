@@ -6,7 +6,7 @@
 
 - 🤖💻 I’m currently falling in love mixing my two passions
 - 👯 I’m looking to meet with other developers
-- 🥅 2025 Goals: 
+- 🥅 2026 Goals: 
   - AWS Certifications 
   - Finish my General Contractor CRM app.
 
